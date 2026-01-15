@@ -12,3 +12,8 @@
 - Built website structure
 - Learned: nano, grep, find, bash scripting
 - Setup Git and pushed to GitHub
+Day 3 
+- Package management: apt
+- Networking: ip, ping, curl
+- Services: systemctl
+- Completed Linux fundamentals
